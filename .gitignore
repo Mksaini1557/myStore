@@ -1,0 +1,27 @@
+# Database configuration (contains sensitive credentials)
+Project php/php/config.php
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*~
+
+# Node modules (if you add npm later)
+node_modules/
+
+# Backup files
+*.bak
+*.backup
